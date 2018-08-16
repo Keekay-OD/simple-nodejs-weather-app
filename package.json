@@ -1,0 +1,14 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "odiaz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
